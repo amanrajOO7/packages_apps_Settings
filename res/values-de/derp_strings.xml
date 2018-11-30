@@ -446,4 +446,12 @@
     <string name="sbc_hd_priority_title">SBC HD Audio</string>
     <string name="sbc_hd_priority_summary">Gibt an, ob standardmäßig der Dual-Channel-Modus für den SBC-Codec verwendet werden soll</string>
 
+    <!-- Settings dashboard icon style -->
+    <string name="theming_settings_dashboard_icons_title">Dashboard-Symbole für Einstellungen</string>
+    <string name="theming_settings_dashboard_icons_default">Standardhintergrund / Transparenter Vordergrund</string>
+    <string name="theming_settings_dashboard_icons_white">Standardhintergrund / Weißer Vordergrund</string>
+    <string name="theming_settings_dashboard_icons_accent">Akzent-Hintergrund / Transparenter Vordergrund</string>
+    <string name="theming_settings_dashboard_icons_plain">Transparenter Hintergrund / Einfacher Vordergrund</string>
+    <string name="theming_settings_dashboard_icons_plain_accent">Transparenter Hintergrund / Akzent-Vordergrund</string>
+
 </resources>
