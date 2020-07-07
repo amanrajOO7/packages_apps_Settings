@@ -442,4 +442,8 @@
     <string name="doze_double_tap_title">Tippen Sie zweimal, um das Telefon aufzuwecken</string>
     <string name="doze_double_tap_summary">Impulsbenachrichtigungen durch zweimaliges Tippen</string>
 
+    <!-- SBC HD (Dual Channel) priority -->
+    <string name="sbc_hd_priority_title">SBC HD Audio</string>
+    <string name="sbc_hd_priority_summary">Gibt an, ob standardmäßig der Dual-Channel-Modus für den SBC-Codec verwendet werden soll</string>
+
 </resources>
