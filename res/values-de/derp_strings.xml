@@ -462,4 +462,8 @@
     <!-- Summary message for checkbox that restricts background network access of a specific application. [CHAR LIMIT=NONE] -->
     <string name="data_usage_app_restrict_background_all_summary">Aktivieren Sie die Netzwerknutzung im Hintergrund</string>
 
+    <!-- Experimental theme options -->
+    <string name="exp_theme_customization_title">Experimentell</string>
+    <string name="exp_theme_customization_summary">Einfach nicht benutzen</string>
+
 </resources>
