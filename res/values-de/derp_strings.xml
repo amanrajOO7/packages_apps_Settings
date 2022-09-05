@@ -767,4 +767,9 @@
 
     <!-- Running services - Background processes tab -->
     <string name="background_processes_settings_title">Hintergrundprozesse</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">App-Lautstärke</string>
+    <string name="app_volume_title">Lautstärkeregelung per App</string>
+    <string name="app_volume_summary">Ermöglicht die Einstellung unterschiedlicher Lautstärken für jede App</string>
 </resources>
